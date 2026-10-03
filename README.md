@@ -31,7 +31,7 @@ optimum-cli export openvino --model Qwen/Qwen2.5-1.5B-Instruct --weight-format f
 3. Run the script:
 
 ```
-python "QWEN2.5 FP16.py"
+python qwen_fp16.py
 ```
 
 Type your question and press Enter. Type `exit` to stop.
