@@ -1,0 +1,4 @@
+*-ov/
+__pycache__/
+*.bin
+*.safetensors
